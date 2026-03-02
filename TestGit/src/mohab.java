@@ -1,5 +1,3 @@
-
 public class mohab {
-
-int x=99;
+int x=90;
 }
