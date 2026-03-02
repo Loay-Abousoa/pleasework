@@ -1,4 +1,5 @@
 
 public class mohab {
-int x;
+
+int x=10;
 }
